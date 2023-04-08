@@ -34,3 +34,4 @@ public class hw2 {
         System.out.printf("Студент %s получил %s по предмету %s  " , family, mark, subject);
         }
 }
+  
